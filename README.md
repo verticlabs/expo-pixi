@@ -1,3 +1,9 @@
+# Fix for Web support
+
+According to this: https://github.com/expo/expo-pixi/issues/72
+
+Fix is this: https://github.com/expo/expo-pixi/issues/72#issuecomment-714649025
+
 # expo-pixi
 
 Tools to use [Pixi.js](http://www.pixijs.com/) in Expo!
